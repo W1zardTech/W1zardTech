@@ -2,34 +2,11 @@
 
 I am a Software Engineer with an interest in embedded systems.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/W1zardTech/W1zardTech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Completing the coursework through my studies for my Bachelor's of Science degree at Southern New Hampshire University gave me many valuable skills in the computer science industry. Not only have I learned programming languages such as Java, C++, and Python, but I have also learned about software architecture, object-oriented programming, reverse engineering, databases, and mobile development. These are all fast-growing areas within the tech industry and with the skills I have gained I am ready to succeed in a job in any of these areas. I have learned how to collaborate in a team environment using Git Version Control System along with hosting solutions such as Bitbucket and Github. I have learned how to communicate to stakeholders to find out about software requirements and learn which features to implement and test. I have learned about data structures and algorithms. For example, I developed a binary search tree algorithm with node data structures that enables extremely efficient retrieval of items within the search tree. I have learned about software engineering and database, including relational databases like SQL and structural databases like MongoDB. For example, I developed a RESTful API that provides an http interface for adding and retrieving stock symbols and their ticker prices. I implemented it in the form a BottlePy server using python. The back end is a MongoDB database. In terms of security, I am well versed in reverse engineering compiled C code from binary to assembly and from assembly back to C. This helps to identify potential security issues and discovering vulnerabilities in code. 
+	The [first artifact](https://w1zardtech.github.io/) is a code review. A code review is extremely important for computer science professionals. It is best practice to have colleagues and experienced software engineers review your code. This is a great way to look for any security issues that your code changes may introduce and is also a good opportunity to learn from fellow experienced engineers. Code reviews are often done informally using an online tool such as bitbucket or gitlab. It allows reviewers to review each line of code and view a diff against the previous version in the repository. Reviewers can then leave in-line feedback as well as general comments on the code review page. Developers can then make code modifications and push new changes to the repository. In some instances code reviews may also be done in person during scheduled meetings, with the developer walking the reviewers through each line of code. This kind of setting can be helpful if there are a lot of developers who have conflicting feedback. During code reviews, some best practices are to stay positive and provide more positive feedback than constructive feedback. It's important to remember that there is a person behind the computer and respecting all of the hard work and effort they put into writing the code. 
+	The [second artifact](https://github.com/W1zardTech/gradebook) is a gradebook system. It allows professors to manage their students grades. It was originally created by me for my class in C a couple years ago. It was a simple C program consisting of a single file that would prompt a user for username and password and then print the students names and grades. Next, it would ask the professor if they want to update the grades. If the professor answers "Y", they can update the grade for each student. Otherwise, the program exits. If incorrect credentials were provided the program also exited.
+	This is a good artifact to include in my ePortfolio because it shows that I can convert C programs to C++ and because it shows object oriented programming. The fact that there are several classes such as the Students and the Login class show that I understand the basics of object oriented programming.
+	The [third artifact](https://github.com/W1zardTech/BinarySearchTree) is binary search tree implementation. The code allows for adding and removing notes from the tree and also searching for items by Bid ID. The program loads bids from an online auction site into a binary search tree. The values are imported from a .csv file. The BinarySearchTree class also has a method to print all nodes in order. This program was originally written by me in the Data Structures and Algorithms course at SNHU about a year ago. 
+	This is a good artifact to include in my ePortfolio because it shows that I understand algorithms for efficient searches and minimizing the time it takes to retrieve a specific record. With my modifications, it also demonstrates my knowledge of unit testing with C++.
+	The [fourth artifact](https://github.com/W1zardTech/RESTful_API_Stock_Prices) is a RESTful API written in python using the bottle py library. The back end is a MongoDB database, and the API allows for the creation, updating, and deletion of stock ticker symbols. This program was originally written by me in the Client Sever Development Course at SNHU a few months ago. 
+	This is a good artifact to include in my ePortfolio because it demonstrates an understanding of Restful APIs and interfacing structural databases with web technologies. 
